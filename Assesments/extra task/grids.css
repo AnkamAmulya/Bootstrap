@@ -1,0 +1,12 @@
+.circle{
+            border-radius: 100%;
+            width: 60px;
+            height: 60px;
+        }
+.a{
+    font-size:55px;
+    border-bottom: 20px;
+}
+img{
+    border-bottom: 20px;
+}
